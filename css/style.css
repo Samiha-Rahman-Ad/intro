@@ -1,0 +1,253 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: 'Maven Pro', sans-serif;
+	font-size: ;
+	line-height: ;
+	background: url("../images/img1.jpg") fixed center;
+	background-image: url("../images/img1.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+/* header section */
+.header-section{
+	width: 100%;
+	background-size: cover;
+}
+.header-section .bg-light{
+	background: transparent !important; 
+}
+
+/* head section start */
+.banner{
+	width: 100%;
+	padding: 150px 0px;
+}
+
+.inner-banner{
+	width: 100%;
+	padding: 100px 50px 0px;
+	text-align: right;
+	font-weight: 800;
+    line-height: 65px;
+    margin-top: -45px;
+    color: white;
+}
+
+.buttons{
+	width: 100%;
+	padding: 100px 0px 0px;
+	text-align: left;
+}
+
+.buttons .btn-primary:hover, .buttons .btn-primary:focus {
+    color: #fff;
+    border: 9px solid black;
+    background: black;
+}
+.buttons .btn-primary {
+    padding: 8px 35px;
+    margin-top: -443px;
+    margin-left: 80px;
+    font-size: 23px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #000;
+    border: 9px solid #f2f2f2;
+    border-radius: 17px;
+    background: #f2f2f2;
+}
+
+
+
+/* para section start */
+.pbanner{
+	width: 100%;
+	padding: 150px 0px;
+}
+
+.inner-pbanner{
+	width: 100%;
+	padding: 0px 50px 0px;
+	text-align: left;
+    line-height: 29px;
+    margin-top: -45px;
+    margin-left: 15px;
+    color: white;
+}
+
+.pbuttons{
+	width: 100%;
+	padding: 100px 0px 0px;
+	text-align: right;
+}
+
+.pbuttons .btn-primary:hover, .pbuttons .btn-primary:focus {
+    color: #fff;
+    border: 9px solid black;
+    background: black;
+}
+.pbuttons .btn-primary {
+    padding: 8px 35px;
+    margin-top: -550px;
+    margin-right: 80px;
+    font-size: 23px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #000;
+    border: 9px solid #f2f2f2;
+    border-radius: 17px;
+    background: #f2f2f2;
+}
+
+/* para section start */
+.pbanner1{
+	width: 100%;
+	padding: 150px 0px;
+}
+
+.inner-pbanner1{
+	width: 100%;
+	padding: 0px 50px 0px;
+	text-align: right;
+    line-height: 29px;
+    margin-top: -45px;
+    margin-left: 15px;
+    color: white;
+    font-size: 32px;
+}
+
+.pbuttons1{
+	width: 100%;
+	padding: 100px 0px 0px;
+	text-align: left;
+}
+
+.pbuttons1 .btn-primary:hover, .pbuttons1 .btn-primary:focus {
+    color: #fff;
+    border: 9px solid black;
+    background: black;
+}
+.pbuttons1 .btn-primary {
+    padding: 8px 35px;
+    margin-top: -550px;
+    margin-left: 80px;
+    font-size: 23px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #000;
+    border: 9px solid #f2f2f2;
+    border-radius: 17px;
+    background: #f2f2f2;
+}
+
+/* para section start */
+.pbanner2{
+	width: 100%;
+	padding: 150px 0px;
+}
+
+.inner-pbanner2{
+	width: 100%;
+	padding: 0px 50px 0px;
+	text-align: right;
+    line-height: 29px;
+    margin-top: -45px;
+    margin-left: 15px;
+    color: white;
+    font-size: 32px;
+}
+
+.pbuttons2{
+	width: 100%;
+	padding: 100px 0px 0px;
+	text-align: center;
+}
+
+.pbuttons2 .btn-primary:hover, .pbuttons2 .btn-primary:focus {
+    color: #fff;
+    border: 9px solid black;
+    background: black;
+}
+.pbuttons2 .btn-primary {
+    padding: 8px 35px;
+    margin-top: -1010px;
+    margin-left: 80px;
+    font-size: 23px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #000;
+    border: 9px solid #f2f2f2;
+    border-radius: 17px;
+    background: #f2f2f2;
+}
+      table {
+        font-family: arial, sans-serif;
+        width: 100%;
+      }
+
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+      }
+
+
+/* para section start */
+.pbanner3{
+	width: 100%;
+	padding: 150px 0px;
+}
+
+.inner-pbanner3{
+	width: 100%;
+    padding: 0px 50px 0px;
+    text-align: left;
+    line-height: 34px;
+    margin-top: -45px;
+    margin-left: 60px;
+    color: white;
+    font-size: 25px;
+}
+
+.pbuttons3{
+	width: 100%;
+	padding: 100px 0px 0px;
+	text-align: right;
+}
+
+.pbuttons3 .btn-primary:hover, .pbuttons3 .btn-primary:focus {
+    color: #fff;
+    border: 9px solid black;
+    background: black;
+}
+.pbuttons3 .btn-primary {
+    padding: 8px 35px;
+    margin-top: -550px;
+    margin-right: 80px;
+    font-size: 23px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #000;
+    border: 9px solid #f2f2f2;
+    border-radius: 17px;
+    background: #f2f2f2;
+}
